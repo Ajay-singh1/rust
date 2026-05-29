@@ -47,4 +47,3 @@ refer to [this section][contributing-bug-reports] and [open an issue][issue temp
 [contributing-bug-reports]: https://rustc-dev-guide.rust-lang.org/contributing.html#bug-reports
 [issue template]: https://github.com/rust-lang/rust/issues/new/choose
 [internals]: https://internals.rust-lang.org
-[rust-zulip]: https://rust-lang.zulipchat.com
